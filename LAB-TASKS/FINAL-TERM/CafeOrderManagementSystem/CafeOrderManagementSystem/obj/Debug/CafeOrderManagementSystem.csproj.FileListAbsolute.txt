@@ -1,0 +1,5 @@
+C:\Users\Rifat Towhid\source\repos\CafeOrderManagementSystem\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Rifat Towhid\source\repos\CafeOrderManagementSystem\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.Form1.resources
+C:\Users\Rifat Towhid\source\repos\CafeOrderManagementSystem\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.Properties.Resources.resources
+C:\Users\Rifat Towhid\source\repos\CafeOrderManagementSystem\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rifat Towhid\source\repos\CafeOrderManagementSystem\CafeOrderManagementSystem\obj\Debug\CafeOrderManagementSystem.csproj.CoreCompileInputs.cache
