@@ -1,0 +1,10 @@
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\bin\Debug\Customer Management System.exe.config
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\bin\Debug\Customer Management System.exe
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\bin\Debug\Customer Management System.pdb
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer Management System.csproj.AssemblyReference.cache
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer_Management_System.Form1.resources
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer_Management_System.Properties.Resources.resources
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer Management System.csproj.GenerateResource.cache
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer Management System.exe
+C:\Users\Rifat Towhid\source\repos\Customer Management System\Customer Management System\obj\Debug\Customer Management System.pdb
