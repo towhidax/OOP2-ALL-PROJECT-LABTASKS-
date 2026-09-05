@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LabTask1\LabTask1\bin\Debug\net10.0\LabTask1.exe
+C:\Users\HP\source\repos\LabTask1\LabTask1\bin\Debug\net10.0\LabTask1.deps.json
+C:\Users\HP\source\repos\LabTask1\LabTask1\bin\Debug\net10.0\LabTask1.runtimeconfig.json
+C:\Users\HP\source\repos\LabTask1\LabTask1\bin\Debug\net10.0\LabTask1.dll
+C:\Users\HP\source\repos\LabTask1\LabTask1\bin\Debug\net10.0\LabTask1.pdb
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.dll
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\refint\LabTask1.dll
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.pdb
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\LabTask1.genruntimeconfig.cache
+C:\Users\HP\source\repos\LabTask1\LabTask1\obj\Debug\net10.0\ref\LabTask1.dll
