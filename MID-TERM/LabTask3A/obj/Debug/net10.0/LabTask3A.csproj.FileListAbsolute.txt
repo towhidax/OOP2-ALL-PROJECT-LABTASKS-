@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\bin\Debug\net10.0\LabTask3A.exe
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\bin\Debug\net10.0\LabTask3A.deps.json
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\bin\Debug\net10.0\LabTask3A.runtimeconfig.json
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\bin\Debug\net10.0\LabTask3A.dll
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\bin\Debug\net10.0\LabTask3A.pdb
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.dll
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\refint\LabTask3A.dll
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.pdb
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\LabTask3A.genruntimeconfig.cache
+C:\Users\HP\source\repos\LabTask3A\LabTask3A\obj\Debug\net10.0\ref\LabTask3A.dll
